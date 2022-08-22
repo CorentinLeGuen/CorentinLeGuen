@@ -5,6 +5,8 @@
 - 📫 How to reach me **leguen.corentin@protonmail.com**
 
 <p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGiveMeSomeChicken&logo=leetcode&logoColor=yellow" alt="leetcode stats">
+<br/>
 <a href="https://www.linkedin.com/in/corentin-le-guen-9a4110197/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin logo" width="50">
 </a>
