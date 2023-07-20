@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **leguen.corentin@protonmail.com**
 
+- <img width="24" height="24" src="https://img.icons8.com/doodle/48/coffee-to-go.png" alt="coffee-to-go"/> Support me here [with a coffee](https://www.buymeacoffee.com/CorentinLeGuen)
+
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGiveMeSomeChicken&logo=leetcode&logoColor=yellow" alt="leetcode stats">
 <br/>
@@ -29,6 +31,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CorentinLeGuen&show_icons=true&locale=en&show_icons=true&theme=dark&hide=contribs" alt="github stats">
 </p>
 -->
-<p align="center">
-<a href="https://www.buymeacoffee.com/CorentinLeGuen"><img width="48" height="48" src="https://img.icons8.com/doodle/48/coffee-to-go.png" alt="coffee-to-go"/></a>
-</p>
