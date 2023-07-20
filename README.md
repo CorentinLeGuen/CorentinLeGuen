@@ -26,3 +26,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=CorentinLeGuen&show_icons=true&locale=en&show_icons=true&theme=dark&hide=contribs" alt="github stats">
 </p>
+
+<p align="center">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="CorentinLeGuen" data-color="#FFDD00" data-emoji="☕"  data-font="Lato" data-text="Support me !" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</p>
