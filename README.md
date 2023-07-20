@@ -18,16 +18,17 @@
 <img src="https://pbs.twimg.com/profile_images/1135822584950546434/_4kShquB_400x400.png" alt="CodingGame logo" width="50">
 </a>
 </p>
-
+<!--
 <h2 align="center">GitHub stats</h2>
-
+-->
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CorentinLeGuen&show_icons=true&locale=en&show_icons=true&theme=dark" alt="lang stats">
-
+-->
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=CorentinLeGuen&show_icons=true&locale=en&show_icons=true&theme=dark&hide=contribs" alt="github stats">
 </p>
-
+-->
 <p align="center">
 <a href="https://www.buymeacoffee.com/CorentinLeGuen"><img width="48" height="48" src="https://img.icons8.com/doodle/48/coffee-to-go.png" alt="coffee-to-go"/></a>
-  
 </p>
