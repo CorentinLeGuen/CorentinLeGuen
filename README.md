@@ -28,5 +28,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/CorentinLeGuen"><img src="https://icons8.com/icon/80543/coffee-to-go" alt="icons8 coffee logo" />Support me !</a>
+<a href="https://www.buymeacoffee.com/CorentinLeGuen"><img width="48" height="48" src="https://img.icons8.com/doodle/48/coffee-to-go.png" alt="coffee-to-go"/></a>
+  
 </p>
