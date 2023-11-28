@@ -1,6 +1,6 @@
 <h1 align="text-center">Hi 👋 I am a backend developer</h1>
 
-- 🌱 I’m currently learning **Pandas & SciKit Learn**
+- 🌱 I’m currently learning **Pandas, SciKit Learn**, **Nuxt3** and deployment with **Netlify**.
 
 - 📫 How to reach me **leguen.corentin@protonmail.com**
 
@@ -11,9 +11,6 @@
 <br/>
 <a href="https://www.linkedin.com/in/corentin-le-guen-9a4110197/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin logo" width="50">
-</a>
-<a href="https://www.codewars.com/users/Coreleguen">
-<img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars logo" width="50">
 </a>
 <a href="https://www.codingame.com/profile/29ad3264f0a6c26ef61e3c03659399bd8778792
 ">
