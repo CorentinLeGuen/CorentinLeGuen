@@ -1,6 +1,6 @@
-<h1 align="text-center">Hi 👋 I am a backend developer</h1>
+<h1 align="text-center">Hi 👋 I am a senior developer</h1>
 
-- 🌱 I’m currently learning **Pandas, SciKit Learn**, **Nuxt3** and deployment with **Netlify**.
+- 🌱 I’m currently learning **Pandas, SciKit Learn**, **Godot**, **Nuxt3** and deployment with **Netlify**.
 
 - 📫 How to reach me **leguen.corentin@protonmail.com**
 
