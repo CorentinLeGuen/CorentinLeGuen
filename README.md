@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on few projects, nothing serious for now<br>🌱 I’m currently learning SciKit Learn, Godot, Flask, Redis, Nuxt3 and deployment with Netlify<br>💬 [Ask me about anything](mailto:cleguen.refined872@passmail.net) !
+🔭 I’m currently working on few projects, nothing serious for now<br>🌱 I’m currently learning tranformers, Docker, Redis and Vue3<br> !
 
 
 # 💻 Tech Stack:
