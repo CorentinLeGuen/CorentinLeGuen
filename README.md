@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on few projects, nothing serious for now<br>🌱 I’m currently learning tranformers, Docker, Redis and Vue3<br> !
+🔭 I’m currently working on few projects, nothing serious for now<br>🌱 I’m currently learning tranformers, Docker, Redis and Vue3
+
 
 
 # 💻 Tech Stack:
