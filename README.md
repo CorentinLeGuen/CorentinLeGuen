@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on few projects, nothing serious for now<br>🌱 I’m currently learning tranformers, Docker, Redis and Vue3
+🔭 I’m currently learning Rust
 
 [![AWS Certified Developer](https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/1640cacc-f529-4c92-bcea-50b422c32a80/public_url)
 
