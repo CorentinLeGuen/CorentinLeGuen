@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Rust
+🔭 I’m currently learning Rust, checkout my latest project here [CorentinLeGuen/rose](https://github.com/CorentinLeGuen/rose).
 
 [![AWS Certified Developer](https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/1640cacc-f529-4c92-bcea-50b422c32a80/public_url)
 
